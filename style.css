@@ -1,15 +1,12 @@
-* {
-  font-family: Verdana;
-
-}
-
 h1 {
+  font-family: 'Square Peg';
   color: red;
   font-size: 24px;
   text-align: center;
 }
 
 p {
+  font-family: Verdana;
   color: blue;
   height: 80px;
   width: 240px;
