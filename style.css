@@ -20,7 +20,8 @@ p {
 
 }
 
-.maintext {
-  color: white;
-  font-weight: thin;
-  
+about {
+  background-color: black;
+  font-family: 'Lucida Console';
+  color: aqua;
+ 
