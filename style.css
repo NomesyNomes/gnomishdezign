@@ -23,7 +23,6 @@ p {
 .about {
   background-color: black;
   font-family: 'Lucida Console';
-  display: flex;
   line-height: 1.6;
   color: aqua;
   border: 3px solid black;
