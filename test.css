@@ -1,7 +1,7 @@
 div.gradient {
   height: 250px;
-  background-color: #ff8a00;
-  background-image: linear-gradient(#ff8a00, #e52e71);
+  background-color: #C0C0C0;
+  background-image: linear-gradient(#C0C0C0, #696969);
 }
 
 h1 { 
