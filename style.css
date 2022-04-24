@@ -25,4 +25,8 @@ p {
   font-family: 'Lucida Console';
   line-height: 1.6;
   color: aqua;
+  border: 3px solid black;
+  width: 600px;
+  margin: auto;
+  
  
