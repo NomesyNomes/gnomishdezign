@@ -1,4 +1,6 @@
-.gradient {
+div.gradient {
+  height: 250px;
+  background-color: #ff8a00;
   background-image: linear-gradient(#ff8a00, #e52e71);
 }
 
