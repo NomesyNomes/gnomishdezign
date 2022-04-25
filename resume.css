@@ -10,8 +10,11 @@ p {
   font-family: 'Lucida Console';
   font-size: 12px;
   font-style: normal;
+  text-align: left;
   color: black;
   border: 3px solid black;
+  padding-left: 8px;
   width: 1000px;
-  margin: auto;
+}
+
  
