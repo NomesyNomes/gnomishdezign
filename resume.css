@@ -5,3 +5,13 @@ h1 {
   color: black;
   text-align: center;
 }
+
+p {
+  font-family: 'Lucida Console';
+  font-size: 12px;
+  font-style: normal;
+  color: black;
+  border: 3px solid black;
+  width: 1000px;
+  margin: auto;
+ 
